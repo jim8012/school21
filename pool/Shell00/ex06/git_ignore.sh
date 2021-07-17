@@ -1,0 +1,1 @@
+git status -s --ignored | cut -c4- 

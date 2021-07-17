@@ -1,0 +1,5 @@
+Credentials cache: API:D8E2573D-567D-4FB0-851B-C87A6883E9B0
+        Principal: tjani@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jan 18 15:46:05 2021  Jan 19 01:46:05 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
